@@ -1,7 +1,7 @@
-G+ 360° Panorama Pix Embedder
-=============================
+G+ 360° Photo Spheres Embedder
+==============================
 
-This script creates a stub page for embedding public 360° panorama
+This script creates a stub page for embedding public 360° photo sphere panorama
 pictures from G+ albums.
 
 Example usage:
@@ -17,3 +17,9 @@ License
 -------
 
 Apache 2.0
+
+
+Link
+----
+
+[Embed Photo Spheres on Your Website](https://developers.google.com/photo-sphere/web/)
