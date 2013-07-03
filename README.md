@@ -6,7 +6,7 @@ pictures from G+ albums.
 
 Example usage:
 
-    $ ./info.py 114253306058596674445 5882828446552988657
+    $ ./embed360.py 114253306058596674445 5882828446552988657
 
 Author
 ------

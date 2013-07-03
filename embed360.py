@@ -4,7 +4,7 @@
 # and embeds them into a website.
 #
 # Example usage:
-# $ ./info.py 114253306058596674445 5882828446552988657
+# $ ./embed360.py 114253306058596674445 5882828446552988657
 #
 # License: Apache 2.0
 # Author: Harald Schilly <harald@schil.ly>
